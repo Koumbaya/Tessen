@@ -1,0 +1,335 @@
+EESchema Schematic File Version 4
+EELAYER 30 0
+EELAYER END
+$Descr A4 11693 8268
+encoding utf-8
+Sheet 1 1
+Title ""
+Date ""
+Rev ""
+Comp ""
+Comment1 ""
+Comment2 ""
+Comment3 ""
+Comment4 ""
+$EndDescr
+$Comp
+L promicro:ProMicro U1
+U 1 1 60C6260E
+P 2000 2100
+F 0 "U1" H 2000 3137 60  0000 C CNN
+F 1 "ProMicro" H 2000 3031 60  0000 C CNN
+F 2 "" H 2100 1050 60  0001 C CNN
+F 3 "" H 2100 1050 60  0000 C CNN
+	1    2000 2100
+	1    0    0    -1  
+$EndComp
+$Comp
+L Connector:Conn_01x01_Female J1
+U 1 1 60C64FAA
+P 1300 1350
+F 0 "J1" H 1328 1376 50  0000 L CNN
+F 1 "C" H 1328 1285 50  0000 L CNN
+F 2 "TestPoint:TestPoint_THTPad_2.0x2.0mm_Drill1.0mm" H 1300 1350 50  0001 C CNN
+F 3 "~" H 1300 1350 50  0001 C CNN
+	1    1300 1350
+	1    0    0    -1  
+$EndComp
+$Comp
+L Connector:Conn_01x01_Female J2
+U 1 1 60C65F8F
+P 1300 1450
+F 0 "J2" H 1328 1476 50  0000 L CNN
+F 1 "C" H 1328 1385 50  0000 L CNN
+F 2 "TestPoint:TestPoint_THTPad_2.0x2.0mm_Drill1.0mm" H 1300 1450 50  0001 C CNN
+F 3 "~" H 1300 1450 50  0001 C CNN
+	1    1300 1450
+	1    0    0    -1  
+$EndComp
+$Comp
+L Connector:Conn_01x01_Female J3
+U 1 1 60C663F7
+P 1300 1550
+F 0 "J3" H 1328 1530 50  0000 L CNN
+F 1 "C" H 1328 1485 50  0001 L CNN
+F 2 "TestPoint:TestPoint_THTPad_2.0x2.0mm_Drill1.0mm" H 1300 1550 50  0001 C CNN
+F 3 "~" H 1300 1550 50  0001 C CNN
+	1    1300 1550
+	1    0    0    -1  
+$EndComp
+$Comp
+L Connector:Conn_01x01_Female J4
+U 1 1 60C7030B
+P 1300 1650
+F 0 "J4" H 1328 1630 50  0000 L CNN
+F 1 "C" H 1328 1585 50  0001 L CNN
+F 2 "TestPoint:TestPoint_THTPad_2.0x2.0mm_Drill1.0mm" H 1300 1650 50  0001 C CNN
+F 3 "~" H 1300 1650 50  0001 C CNN
+	1    1300 1650
+	1    0    0    -1  
+$EndComp
+$Comp
+L Connector:Conn_01x01_Female J5
+U 1 1 60C705BD
+P 1300 1750
+F 0 "J5" H 1328 1730 50  0000 L CNN
+F 1 "C" H 1328 1685 50  0001 L CNN
+F 2 "TestPoint:TestPoint_THTPad_2.0x2.0mm_Drill1.0mm" H 1300 1750 50  0001 C CNN
+F 3 "~" H 1300 1750 50  0001 C CNN
+	1    1300 1750
+	1    0    0    -1  
+$EndComp
+$Comp
+L Connector:Conn_01x01_Female J6
+U 1 1 60C70740
+P 1300 1850
+F 0 "J6" H 1328 1830 50  0000 L CNN
+F 1 "C" H 1328 1785 50  0001 L CNN
+F 2 "TestPoint:TestPoint_THTPad_2.0x2.0mm_Drill1.0mm" H 1300 1850 50  0001 C CNN
+F 3 "~" H 1300 1850 50  0001 C CNN
+	1    1300 1850
+	1    0    0    -1  
+$EndComp
+$Comp
+L Connector:Conn_01x01_Female J7
+U 1 1 60C70940
+P 1300 1950
+F 0 "J7" H 1328 1930 50  0000 L CNN
+F 1 "C" H 1328 1885 50  0001 L CNN
+F 2 "TestPoint:TestPoint_THTPad_2.0x2.0mm_Drill1.0mm" H 1300 1950 50  0001 C CNN
+F 3 "~" H 1300 1950 50  0001 C CNN
+	1    1300 1950
+	1    0    0    -1  
+$EndComp
+$Comp
+L Connector:Conn_01x01_Female J8
+U 1 1 60C70A6A
+P 1300 2050
+F 0 "J8" H 1328 2030 50  0000 L CNN
+F 1 "C" H 1328 1985 50  0001 L CNN
+F 2 "TestPoint:TestPoint_THTPad_2.0x2.0mm_Drill1.0mm" H 1300 2050 50  0001 C CNN
+F 3 "~" H 1300 2050 50  0001 C CNN
+	1    1300 2050
+	1    0    0    -1  
+$EndComp
+$Comp
+L Connector:Conn_01x01_Female J9
+U 1 1 60C70C0B
+P 1300 2150
+F 0 "J9" H 1328 2130 50  0000 L CNN
+F 1 "C" H 1328 2085 50  0001 L CNN
+F 2 "TestPoint:TestPoint_THTPad_2.0x2.0mm_Drill1.0mm" H 1300 2150 50  0001 C CNN
+F 3 "~" H 1300 2150 50  0001 C CNN
+	1    1300 2150
+	1    0    0    -1  
+$EndComp
+$Comp
+L Connector:Conn_01x01_Female J10
+U 1 1 60C70E54
+P 1300 2250
+F 0 "J10" H 1328 2230 50  0000 L CNN
+F 1 "C" H 1328 2185 50  0001 L CNN
+F 2 "TestPoint:TestPoint_THTPad_2.0x2.0mm_Drill1.0mm" H 1300 2250 50  0001 C CNN
+F 3 "~" H 1300 2250 50  0001 C CNN
+	1    1300 2250
+	1    0    0    -1  
+$EndComp
+$Comp
+L Connector:Conn_01x01_Female J11
+U 1 1 60C71064
+P 1300 2350
+F 0 "J11" H 1328 2330 50  0000 L CNN
+F 1 "C" H 1328 2285 50  0001 L CNN
+F 2 "TestPoint:TestPoint_THTPad_2.0x2.0mm_Drill1.0mm" H 1300 2350 50  0001 C CNN
+F 3 "~" H 1300 2350 50  0001 C CNN
+	1    1300 2350
+	1    0    0    -1  
+$EndComp
+$Comp
+L Connector:Conn_01x01_Female J12
+U 1 1 60C7124F
+P 1300 2450
+F 0 "J12" H 1328 2430 50  0000 L CNN
+F 1 "C" H 1328 2385 50  0001 L CNN
+F 2 "TestPoint:TestPoint_THTPad_2.0x2.0mm_Drill1.0mm" H 1300 2450 50  0001 C CNN
+F 3 "~" H 1300 2450 50  0001 C CNN
+	1    1300 2450
+	1    0    0    -1  
+$EndComp
+$Comp
+L Connector:Conn_01x01_Female J13
+U 1 1 60C7142A
+P 2700 1350
+F 0 "J13" H 2592 1217 50  0000 C CNN
+F 1 "C" H 2728 1285 50  0001 L CNN
+F 2 "TestPoint:TestPoint_THTPad_2.0x2.0mm_Drill1.0mm" H 2700 1350 50  0001 C CNN
+F 3 "~" H 2700 1350 50  0001 C CNN
+	1    2700 1350
+	-1   0    0    1   
+$EndComp
+$Comp
+L Connector:Conn_01x01_Female J14
+U 1 1 60C71A9D
+P 2700 1450
+F 0 "J14" H 2592 1317 50  0000 C CNN
+F 1 "C" H 2728 1385 50  0001 L CNN
+F 2 "TestPoint:TestPoint_THTPad_2.0x2.0mm_Drill1.0mm" H 2700 1450 50  0001 C CNN
+F 3 "~" H 2700 1450 50  0001 C CNN
+	1    2700 1450
+	-1   0    0    1   
+$EndComp
+$Comp
+L Connector:Conn_01x01_Female J15
+U 1 1 60C71C1A
+P 2700 1550
+F 0 "J15" H 2592 1417 50  0000 C CNN
+F 1 "C" H 2728 1485 50  0001 L CNN
+F 2 "TestPoint:TestPoint_THTPad_2.0x2.0mm_Drill1.0mm" H 2700 1550 50  0001 C CNN
+F 3 "~" H 2700 1550 50  0001 C CNN
+	1    2700 1550
+	-1   0    0    1   
+$EndComp
+$Comp
+L Connector:Conn_01x01_Female J16
+U 1 1 60C71D49
+P 2700 1650
+F 0 "J16" H 2592 1517 50  0000 C CNN
+F 1 "C" H 2728 1585 50  0001 L CNN
+F 2 "TestPoint:TestPoint_THTPad_2.0x2.0mm_Drill1.0mm" H 2700 1650 50  0001 C CNN
+F 3 "~" H 2700 1650 50  0001 C CNN
+	1    2700 1650
+	-1   0    0    1   
+$EndComp
+$Comp
+L Connector:Conn_01x01_Female J17
+U 1 1 60C71F1A
+P 2700 1750
+F 0 "J17" H 2592 1617 50  0000 C CNN
+F 1 "C" H 2728 1685 50  0001 L CNN
+F 2 "TestPoint:TestPoint_THTPad_2.0x2.0mm_Drill1.0mm" H 2700 1750 50  0001 C CNN
+F 3 "~" H 2700 1750 50  0001 C CNN
+	1    2700 1750
+	-1   0    0    1   
+$EndComp
+$Comp
+L Connector:Conn_01x01_Female J18
+U 1 1 60C72114
+P 2700 1850
+F 0 "J18" H 2592 1717 50  0000 C CNN
+F 1 "C" H 2728 1785 50  0001 L CNN
+F 2 "TestPoint:TestPoint_THTPad_2.0x2.0mm_Drill1.0mm" H 2700 1850 50  0001 C CNN
+F 3 "~" H 2700 1850 50  0001 C CNN
+	1    2700 1850
+	-1   0    0    1   
+$EndComp
+$Comp
+L Connector:Conn_01x01_Female J19
+U 1 1 60C723BB
+P 2700 1950
+F 0 "J19" H 2592 1817 50  0000 C CNN
+F 1 "C" H 2728 1885 50  0001 L CNN
+F 2 "TestPoint:TestPoint_THTPad_2.0x2.0mm_Drill1.0mm" H 2700 1950 50  0001 C CNN
+F 3 "~" H 2700 1950 50  0001 C CNN
+	1    2700 1950
+	-1   0    0    1   
+$EndComp
+$Comp
+L Connector:Conn_01x01_Female J20
+U 1 1 60C725FE
+P 2700 2050
+F 0 "J20" H 2592 1917 50  0000 C CNN
+F 1 "C" H 2728 1985 50  0001 L CNN
+F 2 "TestPoint:TestPoint_THTPad_2.0x2.0mm_Drill1.0mm" H 2700 2050 50  0001 C CNN
+F 3 "~" H 2700 2050 50  0001 C CNN
+	1    2700 2050
+	-1   0    0    1   
+$EndComp
+$Comp
+L Connector:Conn_01x01_Female J21
+U 1 1 60C72818
+P 2700 2150
+F 0 "J21" H 2592 2017 50  0000 C CNN
+F 1 "C" H 2728 2085 50  0001 L CNN
+F 2 "TestPoint:TestPoint_THTPad_2.0x2.0mm_Drill1.0mm" H 2700 2150 50  0001 C CNN
+F 3 "~" H 2700 2150 50  0001 C CNN
+	1    2700 2150
+	-1   0    0    1   
+$EndComp
+$Comp
+L Connector:Conn_01x01_Female J22
+U 1 1 60C7299F
+P 2700 2250
+F 0 "J22" H 2592 2117 50  0000 C CNN
+F 1 "C" H 2728 2185 50  0001 L CNN
+F 2 "TestPoint:TestPoint_THTPad_2.0x2.0mm_Drill1.0mm" H 2700 2250 50  0001 C CNN
+F 3 "~" H 2700 2250 50  0001 C CNN
+	1    2700 2250
+	-1   0    0    1   
+$EndComp
+$Comp
+L Connector:Conn_01x01_Female J23
+U 1 1 60C72C16
+P 2700 2350
+F 0 "J23" H 2592 2217 50  0000 C CNN
+F 1 "C" H 2728 2285 50  0001 L CNN
+F 2 "TestPoint:TestPoint_THTPad_2.0x2.0mm_Drill1.0mm" H 2700 2350 50  0001 C CNN
+F 3 "~" H 2700 2350 50  0001 C CNN
+	1    2700 2350
+	-1   0    0    1   
+$EndComp
+$Comp
+L Connector:Conn_01x01_Female J24
+U 1 1 60C72E45
+P 2700 2450
+F 0 "J24" H 2592 2317 50  0000 C CNN
+F 1 "C" H 2728 2385 50  0001 L CNN
+F 2 "TestPoint:TestPoint_THTPad_2.0x2.0mm_Drill1.0mm" H 2700 2450 50  0001 C CNN
+F 3 "~" H 2700 2450 50  0001 C CNN
+	1    2700 2450
+	-1   0    0    1   
+$EndComp
+$Comp
+L MX_Alps_Hybrid:MX-NoLED MX1
+U 1 1 60C74B13
+P 3450 1450
+F 0 "MX1" H 3483 1673 60  0000 C CNN
+F 1 "MX-NoLED" H 3483 1599 20  0000 C CNN
+F 2 "" H 2825 1425 60  0001 C CNN
+F 3 "" H 2825 1425 60  0001 C CNN
+	1    3450 1450
+	1    0    0    -1  
+$EndComp
+$Comp
+L MX_Alps_Hybrid:MX-NoLED MX2
+U 1 1 60C751CE
+P 3450 1900
+F 0 "MX2" H 3483 2123 60  0000 C CNN
+F 1 "MX-NoLED" H 3483 2049 20  0000 C CNN
+F 2 "" H 2825 1875 60  0001 C CNN
+F 3 "" H 2825 1875 60  0001 C CNN
+	1    3450 1900
+	1    0    0    -1  
+$EndComp
+$Comp
+L MX_Alps_Hybrid:MX-NoLED MX3
+U 1 1 60C75611
+P 3450 2350
+F 0 "MX3" H 3483 2573 60  0000 C CNN
+F 1 "MX-NoLED" H 3483 2499 20  0000 C CNN
+F 2 "" H 2825 2325 60  0001 C CNN
+F 3 "" H 2825 2325 60  0001 C CNN
+	1    3450 2350
+	1    0    0    -1  
+$EndComp
+$Comp
+L MX_Alps_Hybrid:MX-NoLED MX4
+U 1 1 60C75B44
+P 3450 2800
+F 0 "MX4" H 3483 3023 60  0000 C CNN
+F 1 "MX-NoLED" H 3483 2949 20  0000 C CNN
+F 2 "" H 2825 2775 60  0001 C CNN
+F 3 "" H 2825 2775 60  0001 C CNN
+	1    3450 2800
+	1    0    0    -1  
+$EndComp
+$EndSCHEMATC

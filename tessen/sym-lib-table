@@ -1,0 +1,6 @@
+(sym_lib_table
+  (lib (name "SK6812MINI-E")(type "Legacy")(uri "C:/Users/Coumbaya/Documents/Tessen/Tessen/libs/footprints/SK6812MINI-E.lib")(options "")(descr ""))
+  (lib (name "MX_Alps_Hybrid")(type "Legacy")(uri "C:/Users/Coumbaya/Documents/Tessen/Tessen/libs/MX_Alps_Hybrid.pretty/Schematic Library/MX_Alps_Hybrid.lib")(options "")(descr ""))
+  (lib (name "promicro")(type "Legacy")(uri "C:/Users/Coumbaya/Documents/Tessen/Tessen/libs/ProMicroKiCad/promicro_library/promicro.lib")(options "")(descr ""))
+  (lib (name "random-keyboard-parts")(type "Legacy")(uri "C:/Users/Coumbaya/Documents/Tessen/Tessen/libs/random-keyboard-parts.pretty/Schematic Library/random-keyboard-parts.lib")(options "")(descr ""))
+)
